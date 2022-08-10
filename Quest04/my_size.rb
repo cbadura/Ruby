@@ -1,4 +1,4 @@
-def my_size(string)
+def my_size string
     return string.length
 end
 

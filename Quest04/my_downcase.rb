@@ -1,5 +1,5 @@
-def my_upcase(string)
+def my_downcase string
     return string.downcase
 end
 
-puts my_upcase("HI There")
+puts my_downcase("HI There")

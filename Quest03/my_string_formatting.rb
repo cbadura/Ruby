@@ -1,5 +1,5 @@
-def my_string_formatting(firstname, lastname, age)
-    puts ("Hello, my name is #{firstname} #{lastname}, I'm #{age}.\n")
+def my_string_formatting firstname, lastname, age
+    puts "Hello, my name is #{firstname} #{lastname}, I'm #{age}.\n"
 end
 
-my_string_formatting("Baby", "Yoga", 3)
+my_string_formatting("Baby", "Yoda", 3)

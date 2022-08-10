@@ -1,2 +1,2 @@
 my_string = "Learning is growing"
-puts(my_string)
+puts my_string

@@ -1,4 +1,4 @@
-def my_map_mult_two(array)
+def my_map_mult_two array
     array.map! {|item| item * 2} # "!" to modify the array in place (otherwise another array must be assigned with expression)
     return array
 end

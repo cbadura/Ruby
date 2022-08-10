@@ -1,4 +1,4 @@
-def my_string_index(haystack, needle)
+def my_string_index haystack, needle 
     result = haystack.index(needle)
     if (result == nil)
         return -1

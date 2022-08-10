@@ -1,4 +1,4 @@
-def my_sub(nbr, nbr2)
+def my_sub nbr, nbr2
     result = nbr - nbr2
     return result
 end

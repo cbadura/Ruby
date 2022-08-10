@@ -1,4 +1,4 @@
-def my_upcase(string)
+def my_upcase string
     return string.upcase
 end
 

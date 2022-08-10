@@ -1,4 +1,4 @@
-def my_each(array)
+def my_each array
     array.each do |string|
         puts string
     end

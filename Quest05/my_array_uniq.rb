@@ -1,4 +1,4 @@
-def my_array_uniq(array)
+def my_array_uniq array
     array = array.uniq
     return array
 end

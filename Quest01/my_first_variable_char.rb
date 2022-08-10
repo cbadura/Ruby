@@ -1,2 +1,2 @@
 my_letter = 'c'
-puts(my_letter)
+puts my_letter
